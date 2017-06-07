@@ -35,8 +35,8 @@
 
   "Or your fate may be sealed"
   (= 'doom (if-not (zero? 1)
-          'doom
-          'more-doom))
+            'doom
+            'more-doom))
 
   "In case of emergency, go fast"
   (= "pretty fast"
